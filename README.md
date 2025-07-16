@@ -1,5 +1,5 @@
 # 🛒 Amazon Clone
-A responsive Amazon clone homepage built using HTML and CSS, replicating the core design of the Amazon website. This project showcases modern frontend layout and styling techniques.
+ A responsive Amazon clone homepage built using HTML and CSS, replicating the core design of the Amazon website. This project showcases modern frontend layout and styling techniques.
 ## 🔍 Features
 - Navigation bar with logo, location, search bar, sign-in, returns, and cart
 - Category menu panel
@@ -17,7 +17,7 @@ A responsive Amazon clone homepage built using HTML and CSS, replicating the cor
 ## 🚀 How to Run
 1. **Clone the repository:**
    ```sh
-    git clone https://github.com/your-username/amazon-clone.git
+   git clone https://github.com/your-username/amazon-clone.git
    ```
 2. Open index.html in your browser.
 
