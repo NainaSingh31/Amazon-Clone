@@ -8,9 +8,9 @@ A responsive Amazon clone homepage built using HTML and CSS, replicating the cor
 - Multi-section footer with links and branding
 - Clean and responsive design using Flexbox
 ## 💻 Technologies Used
- HTML
- CSS
- Font Awesome (for icons via CDN)
+-HTML
+-CSS
+-Font Awesome (for icons via CDN)
 ## 📸 Preview
  <img width="1919" height="908" alt="Screenshot 2025-07-16 111332" src="https://github.com/user-attachments/assets/3eca4084-7ce1-4654-b32c-5e9baa1dbe28" />
 ## 🚀 How to Run
